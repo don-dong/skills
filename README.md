@@ -13,7 +13,7 @@ npx skills add don-dong/ruoyi-design
 To install it for a specific agent:
 
 ```bash
-npx skills add don-dong/ruoyi-design --skill ruoyi-design --agent codex
+npx skills add https://github.com/don-dong/skills --skill ruoyi-design
 ```
 
 ## Use Cases
